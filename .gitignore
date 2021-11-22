@@ -1,0 +1,5 @@
+
+# for clion trash ignoring
+cmake-build-debug/
+CMakeLists.txt
+.idea/
